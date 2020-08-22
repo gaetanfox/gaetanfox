@@ -25,7 +25,7 @@
 
 [![Twitter: gaetan_fox](https://img.shields.io/twitter/follow/gaetan_fox?style=social)](https://twitter.com/gaetan_fox)
 [![Linkedin: gaetanfox](https://img.shields.io/badge/-gaetanfox-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaetanfox/)](https://www.linkedin.com/in/gaetanfox/)
-[![GitHub iampawan](https://img.shields.io/github/followers/gaetanfox?label=follow&style=social)](https://github.com/gaetanfox)
+[![GitHub gaetanfox](https://img.shields.io/github/followers/gaetanfox?label=follow&style=social)](https://github.com/gaetanfox)
 [![website](https://img.shields.io/badge/gaetanfox.com-2648ff?style=flat-square&logo=google-chrome)](https://gaetanfox.com/)
 
 
