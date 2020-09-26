@@ -1,5 +1,5 @@
 # Hi I am Gaetan Fox! 👋
-## I am a UI/UX Junior Designer and a Frontend Developer 💻
+## I am a UI/UX Junior Designer and Frontend Developer 💻
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaetanfox&label=Views&color=blue&style=plastic" alt="gaetanfox" /> </p>
@@ -15,8 +15,8 @@
 - 🔭 I’m currently working on my Portfolio and custom ecommerce stores.
 - 🌱 I’m currently learning NextJS.
 - 😄 Pronouns: He/His.
-- ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
-- 📫 How to reach me: [Twitter - @gaetan_fox](https://twitter.com/gaetan_fox) , [Instagram - @gaetan_fox](https://twitter.com/gaetan_fox)
+- ⚡ Fun fact: I spend almost 10 hours listening songs everyday.
+- 📫 How to reach me: [Twitter - @gaetan_fox](https://twitter.com/gaetan_fox) , [Instagram - @gaetan_fox](https://instagram.com/gaetan_fox)
 
 [![Twitter: gaetan_fox](https://img.shields.io/twitter/follow/gaetan_fox?style=social)](https://twitter.com/gaetan_fox)
 [![Linkedin: gaetanfox](https://img.shields.io/badge/-gaetanfox-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaetanfox/)](https://www.linkedin.com/in/gaetanfox/)
