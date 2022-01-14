@@ -14,11 +14,10 @@
 
 - 🔭 I’m currently working on my Portfolio and custom ecommerce stores.
 - 🌱 I’m currently learning NextJS.
-- 😄 Pronouns: He/His.
 - ⚡ Fun fact: I spend almost 10 hours listening songs everyday.
-- 📫 How to reach me: [Twitter - @gaetan_fox](https://twitter.com/gaetan_fox) , [Instagram - @gaetan_fox](https://instagram.com/gaetan_fox)
+- 📫 How to reach me: [Twitter - @gaetan_fox](https://twitter.com/gaetanfoxio) , [Instagram - @gaetan_fox](https://instagram.com/gaetanfoxio)
 
-[![Twitter: gaetan_fox](https://img.shields.io/twitter/follow/gaetan_fox?style=social)](https://twitter.com/gaetan_fox)
+[![Twitter: gaetan_fox](https://img.shields.io/twitter/follow/gaetan_fox?style=social)](https://twitter.com/gaetanfoxio)
 [![Linkedin: gaetanfox](https://img.shields.io/badge/-gaetanfox-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaetanfox/)](https://www.linkedin.com/in/gaetanfox/)
 [![GitHub gaetanfox](https://img.shields.io/github/followers/gaetanfox?label=follow&style=social)](https://github.com/gaetanfox)
 [![website](https://img.shields.io/badge/gaetanfox.com-2648ff?style=flat-square&logo=google-chrome)](https://gaetanfox.com/)
